@@ -9,5 +9,6 @@
   <modules>
   	<module>in.co.itasca.sm.persistence</module>
   	<module>in.co.itasca.api</module>
+  	<module>in.co.itasca.sm.ui</module>
   </modules>
 </project>
