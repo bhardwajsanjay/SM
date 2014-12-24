@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>School Management System</name>
   <description>School Management System</description>
+  <modules>
+  	<module>in.co.itasca.sm.persistence</module>
+  </modules>
 </project>
