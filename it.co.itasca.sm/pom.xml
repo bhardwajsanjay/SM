@@ -8,5 +8,6 @@
   <description>School Management System</description>
   <modules>
   	<module>in.co.itasca.sm.persistence</module>
+  	<module>in.co.itasca.api</module>
   </modules>
 </project>
